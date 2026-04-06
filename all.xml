@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liaochuan.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-04-06T07:07:17.208Z</updated>
+    <updated>2026-04-06T18:09:19.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Miloš Vučević (Wikipedia — did you know?)]]></title>
         <id>https://en.wikipedia.org/wiki/Milo%C5%A1_Vu%C4%8Devi%C4%87</id>
         <link href="https://en.wikipedia.org/wiki/Milo%C5%A1_Vu%C4%8Devi%C4%87"/>
         <updated>2026-04-06T07:07:11.654Z</updated>
-        <content type="html"><![CDATA[... that <b><a href="/wiki/Milo%C5%A1_Vu%C4%8Devi%C4%87" title="Miloš Vučević">Miloš Vučević</a></b> <i>(pictured)</i> only served in the National Assembly of Serbia for five days?]]></content>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Milo%C5%A1_Vu%C4%8Devi%C4%87" title="Miloš Vučević">Miloš Vučević</a></b> <i>(pictured)</i> served in the National Assembly of Serbia for only five days?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Robert N. Mullin (Wikipedia — did you know?)]]></title>
