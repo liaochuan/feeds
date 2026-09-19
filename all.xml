@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liaochuan.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-09-19T09:42:34.831Z</updated>
+    <updated>2026-09-19T19:33:10.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Janggyeong Panjeon of Haeinsa (Wikipedia — did you know?)]]></title>
@@ -30,7 +30,7 @@
         <id>https://en.wikipedia.org/wiki/Robert_Iau</id>
         <link href="https://en.wikipedia.org/wiki/Robert_Iau"/>
         <updated>2026-09-19T09:41:51.002Z</updated>
-        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Robert_Iau" title="Robert Iau">Robert Iau</a></b> asked a question that led to the demolition of Singapore's National Theatre?]]></content>
+        <content type="html"><![CDATA[... that <b><a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/Robert_Iau" title="Robert Iau">Robert Iau</a></b> asked a question that led to the demolition of Singapore's <a rel="mw:WikiLink" href="https://en.wikipedia.org/wiki/National_Theatre,_Singapore" title="National Theatre, Singapore">National Theatre</a>?]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[the 1989 Pacific hurricane season (Wikipedia — did you know?)]]></title>
@@ -108,7 +108,7 @@
         <id>https://en.wikivoyage.org/wiki/Previous_Featured_travel_topics</id>
         <link href="https://en.wikivoyage.org/wiki/Previous_Featured_travel_topics"/>
         <updated>2025-10-27T05:09:31.642Z</updated>
-        <content type="html"><![CDATA[<span class="mw-empty-elt" about="#mwt12" typeof="mw:Transclusion" id="mwJw" data-mw="{&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;banner&quot;,&quot;href&quot;:&quot;./Template:Banner&quot;},&quot;params&quot;:{&quot;direction&quot;:{&quot;wt&quot;:&quot;right&quot;},&quot;title&quot;:{&quot;wt&quot;:&quot;Rail travel in the Czech Republic&quot;},&quot;type&quot;:{&quot;wt&quot;:&quot;ftt&quot;},&quot;image&quot;:{&quot;wt&quot;:&quot;RailCZBanner1.jpg&quot;},&quot;quote&quot;:{&quot;wt&quot;:&quot;With a dense network and relatively affordable tickets, taking the train is a good way to explore Czechia.&quot;}},&quot;i&quot;:0}}]}"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4523569" about="#mwt13" typeof="mw:Extension/templatestyles" data-mw="{&quot;name&quot;:&quot;templatestyles&quot;,&quot;attrs&quot;:{&quot;src&quot;:&quot;Banner/styles.css&quot;}}"></span><div class="banner-image js-proportonal-resize notheme" about="#mwt12" id="mwKA">
+        <content type="html"><![CDATA[<span class="mw-empty-elt" about="#mwt12" typeof="mw:Transclusion" id="mwJw" data-mw="{&quot;parts&quot;:[{&quot;template&quot;:{&quot;target&quot;:{&quot;wt&quot;:&quot;banner&quot;,&quot;href&quot;:&quot;./Template:Banner&quot;},&quot;params&quot;:{&quot;direction&quot;:{&quot;wt&quot;:&quot;right&quot;},&quot;title&quot;:{&quot;wt&quot;:&quot;Rail travel in the Czech Republic&quot;},&quot;type&quot;:{&quot;wt&quot;:&quot;ftt&quot;},&quot;image&quot;:{&quot;wt&quot;:&quot;RailCZBanner1.jpg&quot;},&quot;quote&quot;:{&quot;wt&quot;:&quot;With a dense network and relatively affordable tickets, taking the train is a good way to explore Czechia.&quot;}},&quot;i&quot;:0}}]}"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4523569" about="#mwt13" typeof="mw:Extension/templatestyles" data-mw="{&quot;name&quot;:&quot;templatestyles&quot;,&quot;attrs&quot;:{&quot;src&quot;:&quot;Banner/styles.css&quot;}}"></span><div class="banner-image js-proportonal-resize notheme" about="#mwt12" id="mwKA" style="font-size: 108%;">
 	<p><span class="mw-default-size nolink interactiveIcon" typeof="mw:File/Frameless"><span><img resource="https://en.wikivoyage.org/wiki/File:Interactive_icon.svg" src="//thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/250px-Interactive_icon.svg.png?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" loading="lazy" srcset="//thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/500px-Interactive_icon.svg.png?utm_source=en.wikivoyage.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" data-file-width="133" data-file-height="200" data-file-type="drawing" height="376" width="250" class="mw-file-element"></span></span></p>
 	<div class="mainpage-shadowbox notheme banner-box-2 banner-box-right" style="width:45%">
         <div style="position:relative; float:left; margin:-4px;">
